@@ -1,0 +1,6 @@
+# Site applications are maintained as separate repositories.
+SITES/
+
+# Local Python runtime files.
+__pycache__/
+*.py[cod]
